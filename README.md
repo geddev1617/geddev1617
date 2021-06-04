@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my GitHub i am Gideon, a self-taught budding Junior frontEnd Web developer from Nigeria.
+- 👋 Hi, Welcome to my GitHub i am Gideon, a self-taught budding Junior frontEnd Web developer.
 - I love translating/implementing UI/UX designs into Responsive web designs.
 - 🛠 Tech stacks i have worked with; 
 - 🌐 HTML5, CSS3, BOOTSTRAP, JAVASCRIPT and ANGULAR JS
