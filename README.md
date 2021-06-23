@@ -1,12 +1,13 @@
-- 👋 Hi, Welcome to my GitHub i am Gideon, a self-taught budding Junior frontEnd Web developer.
-- I love translating/implementing UI/UX designs into Responsive web designs.
-- 🛠 Tech stacks i have worked with; 
+- 👋 Hi, welcome to my GitHub. 
+- I am Gideon, a self-taught budding Junior Front-End Web Developer.
+- I love translating/implementing UI/UX designs into responsive web designs.
+- 🛠 Tech stacks I have worked with; 
 - 🌐 HTML5, CSS3, BOOTSTRAP, JAVASCRIPT and ANGULAR JS
 - ⚙️ git Version Control System/GitHub
 - 🔧 Visual Studio Code
 - 👀 I’m interested in building fun web application
-- 🌱 I’m currently working on my Personal Portfolio Project, learning Javascript and looking for an internship placement with a team where i can be of value.
-- 💞️ I’m looking to collaborate on Web development projects (RWD)
+- 🌱 I’m currently working on my Personal Portfolio Project, learning Javascript and looking for an internship placement with a team where I can be of value.
+- 💞️ I’m looking to collaborate on Web Development Projects (RWD)
 - 📫 You can reach me by email gedtechiie@gmail.com
 
 <!---
